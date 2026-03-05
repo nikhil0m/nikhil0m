@@ -97,14 +97,15 @@ contribute my experience in projects.
 </p>
 ---
 
-## 📊 GitHub Stats
-
+## 📊 GitHub Stats & Trophies
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nikhil0m&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil0m&layout=compact&theme=tokyonight"/>
-
+  <a href="https://github.com/nikhil0m">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nikhil0m&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="nikhil0m's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=nikhil0m&theme=dark&hide_border=true&cache_seconds=86400" alt="nikhil0m's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=nikhil0m&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Nikhil Raj's GitHub Trophies" />
 </p>
 
 ---
@@ -126,3 +127,17 @@ contribute my experience in projects.
 </a>
 
 </p>
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/nikhil-raj-75a518374/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/nikhil0001007" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/918252799973" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:nikhil0001007@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="none" alt="Bottom Line" width="100%" />
+</div>
